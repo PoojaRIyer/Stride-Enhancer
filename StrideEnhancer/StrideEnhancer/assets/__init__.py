@@ -1,0 +1,1 @@
+# This file is intentionally empty to make 'assets' a Python package
